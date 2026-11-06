@@ -1,0 +1,6 @@
+# Temporary preview/packaging artifacts
+.trae-html-share-packages/
+
+# OS noise
+.DS_Store
+Thumbs.db
