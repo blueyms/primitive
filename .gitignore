@@ -1,5 +1,6 @@
 # Temporary preview/packaging artifacts
 .trae-html-share-packages/
+.screenshots/.tmp/
 
 # OS noise
 .DS_Store
